@@ -1,4 +1,4 @@
 # heyprettygirl
 this is readme.
-the program does some unknown shit.
+the program does some unknown ***.
 I made this program. I am pride234
